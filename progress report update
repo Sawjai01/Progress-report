@@ -1,15 +1,15 @@
 # Status Report
 
 #### Your name
-
+Wesley Ng
 TODO
 
 #### Your section leader's name
-
+Wesley Ng
 TODO
 
 #### Project title
-
+Connect 4
 TODO
 
 ***
@@ -17,13 +17,15 @@ TODO
 Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
 
 #### What have you done for your project so far?
-
-TODO
+started out creating the board itself, 
 
 #### What have you not done for your project yet?
+ on-going trying to figure out the board range vertically and horizontally, and trying to figure out the cell for each column and rows to
+let players, input their slots. 
 
 TODO
 
 #### What problems, if any, have you encountered?
-
+I have 2 encounters. 1st is making the players put in "x" or "o" to choose a slot in the board game. 2nd, it's printing out the entire board game. There are other encounters as well, but this was the main one beacuse if I can't
+let the player choose their desire position on the board game, I can't move on to the next step. 
 TODO
